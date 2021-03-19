@@ -1,0 +1,34 @@
+.in_sec_1>.sec_1_left>.cam_more:hover{
+    background-color: #7b6159;
+}
+.in_sec_1>.sec_1_left>.cam_more:hover .cam_more_a{
+    color: #fbf3f0;
+}
+
+.jew_discover:hover{
+    background-color: #7b6159;
+    color: #fbe3db;
+}
+
+.watch_discover:hover, .adver_discover:hover a{
+    background-color: #7b6159;
+    color: #fbf3f0;
+}
+
+.site_map:hover strong::after{
+    display: block;
+}
+.site_map>.site_a>a:hover{
+    font-weight: 600;
+    color: #7b6159;
+}
+.sub_menu>a:hover,
+.sub_menu>a:hover p{
+    color: #7b6159;
+    font-weight: 800;
+}
+
+.tab_sub>a:hover{
+    color: #7b6159;
+    font-weight: 800;
+}

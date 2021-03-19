@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Gothic+A1&family=Noto+Sans+KR&display=swap');
+
+*{ margin: 0; padding: 0; font-family: 'Gothic A1', sans-serif; font-weight: 400; }
+
+.korean{ font-family: 'Noto Sans KR', sans-serif; }
+.item_name{ font-family: 'Georgia','Cormorant Garamond', serif; }
+
+body{ color: #696969;}
+ul, li{ list-style: none; }
+a{ text-decoration: none; color: #696969; }
+img{ display: block; border: 0; }
+button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
