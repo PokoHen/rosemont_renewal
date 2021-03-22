@@ -1,7 +1,7 @@
 $(document).ready(function(){
     
     /* 검색 창 나오고 닫음 */
-    $('.icon_menu').click(function(){
+    $('.search_icon').click(function(){
         $('.hidden_search_box').slideDown(300);
     });
     $('.close_btn').click(function(){
