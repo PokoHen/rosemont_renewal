@@ -14,3 +14,13 @@ button {
   -moz-appearance: none;
   appearance: none;
 }
+
+body::-webkit-scrollbar{
+    width: 10px;
+    background-color: #eee;
+}
+
+body::-webkit-scrollbar-thumb{
+    background-color: #999;
+    border-radius: 20px;
+}
