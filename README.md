@@ -1,10 +1,18 @@
-# rosemont_renewal
+# 프로젝트 제목
+  - rosemont_renewal
+  - 
 # 작업기간
   - 21.03.10 ~ 21.03.20
+
+# 개발인원
+  - 1명 (개인 프로젝트)
 
 # 개발 언어
   - HTML5 / CSS3
   - Javascript (Jquery)
+  
+# 개발 툴
+  - Brackets
   
 # 디자인 툴
   - PhotoShop
